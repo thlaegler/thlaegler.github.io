@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:zoom="0.39187386"
-     inkscape:cx="1163.6398"
+     inkscape:cx="852.31509"
      inkscape:cy="466.98701"
      inkscape:window-width="1584"
      inkscape:window-height="825"
@@ -213,16 +213,6 @@
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
          x="107.12567"
          y="129.34872">File API</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-3.5907633,-44.211274)"
-       id="text7"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Verdana;-inkscape-font-specification:'Verdana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7);display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="398.66016"
-         y="255.26575"
-         id="tspan4"><tspan
-           dx="0 15.437475 14.645811 7.2916527 7.2916565 14.166645 14.249973 14.916649 15.197891 14.166641 7.2916565 16.562469 15.635391"
-           id="tspan3">Colleague API</tspan></tspan></text>
     <path
        style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        d="m 97.872687,9.856546 55.687113,0.215446 4.94997,5.170703 -4.53747,4.524368 -55.687123,-0.215447 5.362473,-5.170705 z"
@@ -536,16 +526,6 @@
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
          x="273.63339"
          y="129.29327">File API</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,162.91695,-44.266715)"
-       id="text7-8"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Verdana;-inkscape-font-specification:'Verdana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7-5);display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="398.66016"
-         y="255.26575"
-         id="tspan6"><tspan
-           dx="0 15.437475 14.645811 7.2916527 7.2916565 14.166645 14.249973 14.916649 15.197891 14.166641 7.2916565 16.562469 15.635391"
-           id="tspan5">Colleague API</tspan></tspan></text>
     <path
        style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        d="m 264.3804,9.801105 55.68711,0.215446 4.94997,5.170703 -4.53747,4.524368 -55.68712,-0.215447 5.36247,-5.170705 z"
