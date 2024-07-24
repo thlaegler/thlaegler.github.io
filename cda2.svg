@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="658mm" height="276mm" viewBox="0 0 658 276" version="1.1" id="svg1" inkscape:version="1.3.2 (091e20e, 2023-11-25)" sodipodi:docname="cda.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" showguides="true" inkscape:zoom="0.39187386" inkscape:cx="1316.7502" inkscape:cy="466.987" inkscape:window-width="1952" inkscape:window-height="941" inkscape:window-x="1312" inkscape:window-y="25" inkscape:window-maximized="0" inkscape:current-layer="layer1">
+    <sodipodi:guide position="417.91018,168.81887" orientation="0,-1" id="guide81" inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs id="defs1">
+    <rect x="398.65955" y="208.66011" width="92.455086" height="27.142778" id="rect7" />
+    <rect x="398.65955" y="208.66011" width="92.455086" height="27.142778" id="rect7-5" />
+  </defs>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <rect />
+    <rect />
+    <rect>
+      <desc id="desc1-6-97">cda-dev</desc>
+      <title id="title1-5-37">cda-dev</title>
+    </rect>
+    <text xml:space="preserve">(WD)</tspan></text>
+    <rect>
+      <desc id="desc1-6-97-9">sap-cda-dev</desc>
+      <title id="title1-5-37-2">sap-cda-dev</title>
+    </rect>
+    <text xml:space="preserve">(SAP)</tspan></text>
+    <path>
+      <desc id="desc66">sap-cda-colleague-api-dev</desc>
+      <title id="title66">sap-cda-colleague-api-dev</title>
+    </path>
+    <text xml:space="preserve">Colleague API</tspan></text>
+    <path>
+      <desc id="desc67">sap-cda-org-unit-api-dev</desc>
+      <title id="title67">sap-cda-org-unit-api-dev</title>
+    </path>
+    <text xml:space="preserve">OrgUnit API</tspan></text>
+    <path>
+      <desc id="desc68">sap-cda-position-api-dev</desc>
+      <title id="title68">sap-cda-position-api-dev</title>
+    </path>
+    <text xml:space="preserve">Position API</tspan></text>
+    <path>
+      <desc id="desc69">sap-cda-file-api-dev</desc>
+      <title id="title69">sap-cda-file-api-dev</title>
+    </path>
+    <text xml:space="preserve">File API</tspan></text>
+    <path>
+      <desc id="desc60">cda-colleague-api-dev</desc>
+      <title id="title60">cda-colleague-api-dev</title>
+    </path>
+    <text xml:space="preserve">Colleague API</tspan></text>
+    <path>
+      <desc id="desc61">cda-org-unit-api-dev</desc>
+      <title id="title61">cda-org-unit-api-dev</title>
+    </path>
+    <text xml:space="preserve">OrgUnit API</tspan></text>
+    <path>
+      <desc id="desc62">cda-position-api-dev</desc>
+      <title id="title62">cda-position-api-dev</title>
+    </path>
+    <text xml:space="preserve">Position API</tspan></text>
+    <path>
+      <desc id="desc63">cda-job-api-dev</desc>
+      <title id="title63">cda-job-api-dev</title>
+    </path>
+    <text xml:space="preserve">Job API</tspan></text>
+    <path>
+      <desc id="desc64">cda-location-api-dev</desc>
+      <title id="title64">cda-location-api-dev</title>
+    </path>
+    <text xml:space="preserve">Location API</tspan></text>
+    <path>
+      <title id="title65">cda-file-api-dev</title>
+    </path>
+    <text xml:space="preserve">File API</tspan></text>
+    <path>
+      <desc id="desc59">cda-sap-api-dev</desc>
+      <title id="title59">cda-sap-api-dev</title>
+    </path>
+    <text xml:space="preserve">SAP API</tspan></text>
+    <path>
+      <desc id="desc58">cda-workday-api-dev</desc>
+      <title id="title58">cda-workday-api-dev</title>
+    </path>
+    <text xml:space="preserve">Workday API</tspan></text>
+    <rect>
+      <desc id="desc1-6-97-7">cda-test</desc>
+      <title id="title1-5-37-5">cda-test</title>
+    </rect>
+    <rect />
+    <text xml:space="preserve">(SAP)</tspan></text>
+    <rect>
+      <desc id="desc1-6-97-9-0">workday-cda-test</desc>
+      <title id="title1-5-37-2-7">workday-cda-test</title>
+    </rect>
+    <text xml:space="preserve">(WD)</tspan></text>
+    <path>
+      <desc id="desc76">workday-cda-colleague-api-test</desc>
+      <title id="title76">workday-cda-colleague-api-test</title>
+    </path>
+    <text xml:space="preserve">Colleague API</tspan></text>
+    <rect />
+    <path>
+      <desc id="desc79">workday-cda-org-unit-api-test</desc>
+      <title id="title79">workday-cda-org-unit-api-test</title>
+    </path>
+    <text xml:space="preserve">OrgUnit API</tspan></text>
+    <path>
+      <desc id="desc77">workday-cda-position-api-test</desc>
+      <title id="title77">workday-cda-position-api-test</title>
+    </path>
+    <text xml:space="preserve">Position API</tspan></text>
+    <path>
+      <desc id="desc78">workday-cda-file-api-test</desc>
+      <title id="title78">workday-cda-file-api-test</title>
+    </path>
+    <text xml:space="preserve">File API</tspan></text>
+    <path>
+      <desc id="desc70">cda-colleague-api-test</desc>
+      <title id="title70">cda-colleague-api-test</title>
+    </path>
+    <text xml:space="preserve">Colleague API</tspan></text>
+    <path>
+      <desc id="desc71">cda-org-unit-api-test</desc>
+      <title id="title71">cda-org-unit-api-test</title>
+    </path>
+    <text xml:space="preserve">OrgUnit API</tspan></text>
+    <path>
+      <desc id="desc72">cda-position-api-test</desc>
+      <title id="title72">cda-position-api-test</title>
+    </path>
+    <text xml:space="preserve">Position API</tspan></text>
+    <path>
+      <desc id="desc73">cda-job-api-test</desc>
+      <title id="title73">cda-job-api-test</title>
+    </path>
+    <text xml:space="preserve">Job API</tspan></text>
+    <path>
+      <desc id="desc74">cda-location-api-test</desc>
+      <title id="title74">cda-location-api-test</title>
+    </path>
+    <text xml:space="preserve">Location API</tspan></text>
+    <path>
+      <desc id="desc75">cda-file-api-test</desc>
+      <title id="title75">cda-file-api-test</title>
+    </path>
+    <text xml:space="preserve">File API</tspan></text>
+    <path>
+      <desc id="desc81">cda-sap-api-test</desc>
+      <title id="title81">cda-sap-api-test</title>
+    </path>
+    <text xml:space="preserve">SAP API</tspan></text>
+    <path>
+      <desc id="desc80">cda-workday-api-test</desc>
+      <title id="title80">cda-workday-api-test</title>
+    </path>
+    <text xml:space="preserve">Workday API</tspan></text>
+    <rect />
+    <rect />
+    <rect>
+      <desc id="desc1-6-97-7-6">cda-stress</desc>
+      <title id="title1-5-37-5-9">cda-stress</title>
+    </rect>
+    <text xml:space="preserve">(WD)</tspan></text>
+    <rect>
+      <desc id="desc1-6-97-9-0-0">sap-cda-stress</desc>
+      <title id="title1-5-37-2-7-2">sap-cda-stress</title>
+    </rect>
+    <rect>
+      <desc id="desc1-6-97-7-0">cda-sandbox</desc>
+      <title id="title1-5-37-5-2">cda-sandbox</title>
+    </rect>
+    <text xml:space="preserve">(SAP)</tspan></text>
+    <rect>
+      <desc id="desc1-6-97-9-0-2">workday-cda-sandbox</desc>
+      <title id="title1-5-37-2-7-1">workday-cda-sandbox</title>
+    </rect>
+    <text xml:space="preserve">(WD)</tspan></text>
+    <path>
+      <desc id="desc76-3">workday-cda-colleague-api-sandbox</desc>
+      <title id="title76-2">workday-cda-colleague-api-sandbox</title>
+    </path>
+    <text xml:space="preserve">Colleague API</tspan></text>
+    <path>
+      <desc id="desc79-7">workday-cda-org-unit-api-sandbox</desc>
+      <title id="title79-3">workday-cda-org-unit-api-sandbox</title>
+    </path>
+    <text xml:space="preserve">OrgUnit API</tspan></text>
+    <path>
+      <desc id="desc77-4">workday-cda-position-api-sandbox</desc>
+      <title id="title77-0">workday-cda-position-api-sandbox</title>
+    </path>
+    <text xml:space="preserve">Position API</tspan></text>
+    <path>
+      <desc id="desc78-8">workday-cda-file-api-sandbox</desc>
+      <title id="title78-2">workday-cda-file-api-sandbox</title>
+    </path>
+    <text xml:space="preserve">File API</tspan></text>
+    <path>
+      <desc id="desc70-6">cda-colleague-api-test</desc>
+      <title id="title70-3">cda-colleague-api-test</title>
+    </path>
+    <text xml:space="preserve">Colleague API</tspan></text>
+    <path>
+      <desc id="desc71-9">cda-org-unit-api-sandbox</desc>
+      <title id="title71-2">cda-org-unit-api-sandbox</title>
+    </path>
+    <text xml:space="preserve">OrgUnit API</tspan></text>
+    <path>
+      <desc id="desc72-5">cda-position-api-sandbox</desc>
+      <title id="title72-6">cda-position-api-sandbox</title>
+    </path>
+    <text xml:space="preserve">Position API</tspan></text>
+    <path>
+      <desc id="desc73-00">cda-job-api-sandbox</desc>
+      <title id="title73-8">cda-job-api-sandbox</title>
+    </path>
+    <text xml:space="preserve">Job API</tspan></text>
+    <path>
+      <desc id="desc74-3">cda-location-api-sandbox</desc>
+      <title id="title74-2">cda-location-api-sandbox</title>
+    </path>
+    <text xml:space="preserve">Location API</tspan></text>
+    <path>
+      <desc id="desc75-1">cda-file-api-sandbox</desc>
+      <title id="title75-9">cda-file-api-sandbox</title>
+    </path>
+    <text xml:space="preserve">File API</tspan></text>
+    <path>
+      <desc id="desc81-1">cda-sap-api-sandbox</desc>
+      <title id="title81-7">cda-sap-api-sandbox</title>
+    </path>
+    <text xml:space="preserve">SAP API</tspan></text>
+    <path>
+      <desc id="desc80-44">cda-workday-api-sandbox</desc>
+      <title id="title80-4">cda-workday-api-sandbox</title>
+    </path>
+    <text xml:space="preserve">Workday API</tspan></text>
+    <text xml:space="preserve">(SAP)</tspan></text>
+    <path>
+      <desc id="desc76-5">sap-cda-colleague-api-stress</desc>
+      <title id="title76-9">sap-cda-colleague-api-stress</title>
+    </path>
+    <text xml:space="preserve">Colleague API</tspan></text>
+    <path>
+      <desc id="desc79-2">sap-cda-org-unit-api-stress</desc>
+      <title id="title79-8">sap-cda-org-unit-api-stress</title>
+    </path>
+    <text xml:space="preserve">OrgUnit API</tspan></text>
+    <path>
+      <desc id="desc77-0">sap-cda-position-api-stress</desc>
+      <title id="title77-8">sap-cda-position-api-stress</title>
+    </path>
+    <text xml:space="preserve">Position API</tspan></text>
+    <path>
+      <desc id="desc78-5">sap-cda-file-api-stress</desc>
+      <title id="title78-9">sap-cda-file-api-stress</title>
+    </path>
+    <text xml:space="preserve">File API</tspan></text>
+    <path>
+      <desc id="desc70-5">cda-colleague-api-stress</desc>
+      <title id="title70-9">cda-colleague-api-stress</title>
+    </path>
+    <text xml:space="preserve">Colleague API</tspan></text>
+    <path>
+      <desc id="desc71-6">cda-org-unit-api-stress</desc>
+      <title id="title71-9">cda-org-unit-api-stress</title>
+    </path>
+    <text xml:space="preserve">OrgUnit API</tspan></text>
+    <path>
+      <desc id="desc72-2">cda-position-api-stress</desc>
+      <title id="title72-4">cda-position-api-stress</title>
+    </path>
+    <text xml:space="preserve">Position API</tspan></text>
+    <path>
+      <desc id="desc73-0">cda-job-api-stress</desc>
+      <title id="title73-2">cda-job-api-stress</title>
+    </path>
+    <text xml:space="preserve">Job API</tspan></text>
+    <path>
+      <desc id="desc74-9">cda-location-api-stress</desc>
+      <title id="title74-0">cda-location-api-stress</title>
+    </path>
+    <text xml:space="preserve">Location API</tspan></text>
+    <path>
+      <desc id="desc75-8">cda-file-api-stress</desc>
+      <title id="title75-2">cda-file-api-stress</title>
+    </path>
+    <text xml:space="preserve">File API</tspan></text>
+    <path>
+      <desc id="desc81-3">cda-sap-api-stress</desc>
+      <title id="title81-2">cda-sap-api-stress</title>
+    </path>
+    <text xml:space="preserve">SAP API</tspan></text>
+    <path>
+      <desc id="desc80-4">cda-workday-api-stress</desc>
+      <title id="title80-8">cda-workday-api-stress</title>
+    </path>
+    <text xml:space="preserve">Workday API</tspan></text>
+    <rect />
+    <rect />
+    <rect>
+      <desc id="desc1-6-97-7-0-1">cda-prod</desc>
+      <title id="title1-5-37-5-2-8">cda-prod</title>
+    </rect>
+    <text xml:space="preserve">(SAP)</tspan></text>
+    <rect>
+      <desc id="desc1-6-97-9-0-2-3">workday-cda-prod</desc>
+      <title id="title1-5-37-2-7-1-5">workday-cda-prod</title>
+    </rect>
+    <text xml:space="preserve">(WD)</tspan></text>
+    <path>
+      <desc id="desc76-3-9">workday-cda-colleague-api-prod</desc>
+      <title id="title76-2-3">workday-cda-colleague-api-prod</title>
+    </path>
+    <text xml:space="preserve">Colleague API</tspan></text>
+    <path>
+      <desc id="desc79-7-8">workday-cda-org-unit-api-prod</desc>
+      <title id="title79-3-3">workday-cda-org-unit-api-prod</title>
+    </path>
+    <text xml:space="preserve">OrgUnit API</tspan></text>
+    <path>
+      <desc id="desc77-4-4">workday-cda-position-api-prod</desc>
+      <title id="title77-0-2">workday-cda-position-api-prod</title>
+    </path>
+    <text xml:space="preserve">Position API</tspan></text>
+    <path>
+      <desc id="desc78-8-5">workday-cda-file-api-prod</desc>
+      <title id="title78-2-8">workday-cda-file-api-prod</title>
+    </path>
+    <text xml:space="preserve">File API</tspan></text>
+    <path>
+      <desc id="desc70-6-0">cda-colleague-api-prod</desc>
+      <title id="title70-3-8">cda-colleague-api-prod</title>
+    </path>
+    <text xml:space="preserve">Colleague API</tspan></text>
+    <path>
+      <desc id="desc71-9-5">cda-org-unit-api-prod</desc>
+      <title id="title71-2-7">cda-org-unit-api-prod</title>
+    </path>
+    <text xml:space="preserve">OrgUnit API</tspan></text>
+    <path>
+      <desc id="desc72-5-6">cda-position-api-prod</desc>
+      <title id="title72-6-4">cda-position-api-prod</title>
+    </path>
+    <text xml:space="preserve">Position API</tspan></text>
+    <path>
+      <desc id="desc73-00-5">cda-job-api-test</desc>
+      <title id="title73-8-6">cda-job-api-prod</title>
+    </path>
+    <text xml:space="preserve">Job API</tspan></text>
+    <path>
+      <desc id="desc74-3-6">cda-location-api-prod</desc>
+      <title id="title74-2-3">cda-location-api-prod</title>
+    </path>
+    <text xml:space="preserve">Location API</tspan></text>
+    <path>
+      <desc id="desc75-1-0">cda-file-api-prod</desc>
+      <title id="title75-9-7">cda-file-api-prod</title>
+    </path>
+    <text xml:space="preserve">File API</tspan></text>
+    <path>
+      <desc id="desc81-1-5">cda-sap-api-prod</desc>
+      <title id="title81-7-4">cda-sap-api-prod</title>
+    </path>
+    <text xml:space="preserve">SAP API</tspan></text>
+    <path>
+      <desc id="desc80-44-1">cda-workday-api-prod</desc>
+      <title id="title80-4-6">cda-workday-api-prod</title>
+    </path>
+    <text xml:space="preserve">Workday API</tspan></text>
+    <text xml:space="preserve">DEV</tspan></text>
+    <text xml:space="preserve">TEST</tspan></text>
+    <text xml:space="preserve">STRESS</tspan></text>
+    <text xml:space="preserve">BOX</tspan></text>
+    <text xml:space="preserve">PROD</tspan></text>
+  </g>
+</svg>
