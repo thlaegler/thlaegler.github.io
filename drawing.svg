@@ -3,9 +3,7 @@
 
 <svg width="210mm" height="297mm" viewBox="0 0 210 297" version="1.1" id="svg1" xmlns="http://www.w3.org/2000/svg">
   <defs id="defs1" />
-  <g >
-    <rect id="cda-workday-api-stress" width="65.440681" height="40.271183" x="50.338982" y="51.597454" />
-    <rect id="cda-sap-api-stress" width="90.610168" height="26.427965" x="47.822033" y="109.48728" />
-    <path d="m 55.37288,166.11864 c -21.394067,28.94492 57.88983,70.47458 57.88983,70.47458 l 28.94492,-42.78814 -41.52966,-25.16949 z" id="cda-sap-api-dev" />
-  </g>
+    <rect id="cda-workday-api-stress" width="65.440681" height="40.271183" x="50.338982" y="51.597454" fill="#505158" stroke="#23242B" stroke-width="1.17104" />
+    <rect id="cda-sap-api-stress" width="90.610168" height="26.427965" x="47.822033" y="109.48728" fill="#505158" stroke="#23242B" stroke-width="1.17104" />
+    <path d="m 55.37288,166.11864 c -21.394067,28.94492 57.88983,70.47458 57.88983,70.47458 l 28.94492,-42.78814 -41.52966,-25.16949 z" id="cda-sap-api-dev" fill="#505158" stroke="#23242B" stroke-width="1.17104" />
 </svg>
